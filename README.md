@@ -8,5 +8,6 @@ The usage of the programm seems to be like this:
 3. Study the results
 <br/>
 Note that bezier splines must have  middle points just to make the whole chain smooth, and they do not belong to base fx
+<br/>
 ### Polynomial interpolation
 Also includes interpolation of function (in this case the base function cannot be changed) with polynomial according to 5, 8, 13, or 18 anchor points (mutliplires are pre-calculated in Excel, one of the main goal is to calculate them in Python and make polynomial interpolation universal)
