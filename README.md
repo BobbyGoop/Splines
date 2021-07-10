@@ -1,4 +1,4 @@
-#Splines representation in Python
+# Splines representation in Python
 ### Description
 Python application created for studying different splines with the help of matplotlib and numpy. Shows differences between Bezier splines (cubic and quadratic) and Catmull-Rom spline. In other words, the program tries to interpolate chosen function with theese splines and calculate the mean deviation between the origin and the result, adjusting the number of anchor points (obviously, the larger the number, the more accurate the result).
 
